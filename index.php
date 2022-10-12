@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="icon" href="img/favicon.png" type="image/png">
-    <title>Medcare Medical</title>
+    <title>Focus Health Care</title>
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/themify-icons.css">
@@ -34,7 +34,7 @@
                     <p>Also you dry creeping beast multiply fourth abundantly our itsel signs bring our. Won form living. Whose dry you seasons divide given gathering great in whose you'll greater let livein form beast  sinthete
                     better together these place absolute right.</p>
                     <a href="" class="main_btn bgColor border-0">Make an Appointment</a>
-                    <a href="" class="main_btn_light  border-0">View Department</a>
+                    <a href="" class="main_btn_light  bgColor  border-0">View Department</a>
                 </div>
             </div>
         </div>

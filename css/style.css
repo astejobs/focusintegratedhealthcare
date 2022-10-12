@@ -2793,7 +2793,7 @@ h6 {
 /*----------------------------------------------------*/
 /* Main Button Area css
 ============================================================================================ */
-.main_btn {
+ .main_btn {
   display: inline-block;
   background: #691C32;
   padding: 0px 18px;
@@ -2809,11 +2809,11 @@ h6 {
   border: 1px solid #691C32;
   cursor: pointer;
   text-transform: capitalize;
-  transition: all 300ms linear 0s; }
-  .main_btn:hover {
-    background: #fff;
-    color: #691C32;
-    border: 1px solid #fff; }
+  transition: all 300ms linear 0s; } 
+   .main_btn:hover {
+    background: #691C32;
+    color: #fff;
+    border: 1px solid #fff; } 
 
 .main_btn_light {
   display: inline-block;
@@ -2832,9 +2832,9 @@ h6 {
   cursor: pointer;
   text-transform: capitalize;
   transition: all 300ms linear 0s; }
-  .main_btn_light:hover {
+   .main_btn_light:hover {
     background: #691C32;
-    color: #fff; }
+    color: #fff; } 
 
 .main_btn2 {
   display: inline-block;
@@ -3177,9 +3177,9 @@ h6 {
 .card-service {
   padding: 40px 35px;
   border: 0;
-  border-radius: 0;
+  border-radius: 10px;
   background: #fff;
-  border: 1px solid #e8edf1;
+  border: 2px solid #e8edf1;
   z-index: 22;
   position: relative;
   transition: all 300ms linear 0s; }
@@ -3425,4 +3425,5 @@ h6 {
  }
  .bgColor{
   background-color: #691C32 !important;
+  color: white !important;
  }
