@@ -1,5 +1,5 @@
   <!-- start footer Area -->
-  <footer class="footer-area area-padding-top ">
+  <footer class="footer-area area-padding-top bgColor">
         <div class="container">
             <div class="row">
                 <div class="col-lg-2 col-sm-6 single-footer-widget">
@@ -59,7 +59,7 @@
             </div>
         </div>
         <div class="row footer-bottom d-flex justify-content-between ">
-            <p class="col-lg-8 col-sm-12 footer-text m-0">
+            <p class="col-lg-8 col-sm-12 footer-text m-0 text-white">
                 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by ASTE</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
