@@ -3321,9 +3321,9 @@ h6 {
     list-style: none; }
     .footer-area .single-footer-widget ul li a {
       transition: all 300ms linear 0s;
-      color: #797979; }
+      color: white; }
       .footer-area .single-footer-widget ul li a:hover {
-        color:white; }
+        color: #f53b31; }
 .footer-area .single-footer-widget .form-wrap {
   margin-top: 25px; }
 .footer-area .single-footer-widget input {
