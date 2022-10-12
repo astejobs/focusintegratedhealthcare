@@ -38,7 +38,6 @@
                                 <ul class="dropdown-menu">
                                     <li class="nav-item"><a class="nav-link" href="blog.php">Blog</a></li>
                                     <li class="nav-item"><a class="nav-link" href="single-blog.php">Blog Details</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="element.php">element</a></li>
                                 </ul>
                             </li> 
                             <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
