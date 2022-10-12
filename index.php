@@ -33,8 +33,8 @@
                     Care Better Together</h1>
                     <p>Also you dry creeping beast multiply fourth abundantly our itsel signs bring our. Won form living. Whose dry you seasons divide given gathering great in whose you'll greater let livein form beast  sinthete
                     better together these place absolute right.</p>
-                    <a href="" class="main_btn bgColor border-0">Make an Appointment</a>
-                    <a href="" class="main_btn_light  bgColor  border-0">View Department</a>
+                    <a href="" class="main_btn  border-0">Make an Appointment</a>
+                    <a href="" class="main_btn_light    border-0">View Department</a>
                 </div>
             </div>
         </div>

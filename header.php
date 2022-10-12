@@ -3,7 +3,7 @@
         <div class="top_menu row m0 bgColor ">
             <div class="container">
                 <div class="float-left">
-                    <a class="dn_btn text-white" href="mailto:medical@example.com"><i class="ti-email"></i>medical@example.com</a>
+                    <a class="dn_btn text-white" href="mailto:medical@example.com"><i class="ti-email"></i>aste@gmail.com</a>
                 </div>
                 <div class="float-right">
                     <ul class="list header_social ">
